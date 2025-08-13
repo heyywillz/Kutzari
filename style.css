@@ -328,6 +328,10 @@ nav a:hover {
     margin-top: 6rem;
   }
 
+  .hero-text p{
+    display: inline;
+  }
+
   .hero-container {
     height: 80vh;
   }
