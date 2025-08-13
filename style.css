@@ -329,7 +329,7 @@ nav a:hover {
   }
 
   .hero-container {
-    height: auto;
+    height: 80vh;
   }
 
   .hero-text h1,
