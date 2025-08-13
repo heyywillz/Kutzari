@@ -363,11 +363,6 @@ nav a:hover {
 }
 
 @media (max-width: 400px) {
-  .hero-text h1,
-  .about-text h2 {
-    font-size: 2.4rem;
-  }
-
   .hero-btn {
     flex-direction: column;
     max-width: max-content;
