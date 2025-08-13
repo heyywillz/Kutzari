@@ -328,6 +328,10 @@ nav a:hover {
     margin-top: 6rem;
   }
 
+  .hero-container {
+    height: auto;
+  }
+
   .hero-text h1,
   .about-text h2,
   .services h2,
